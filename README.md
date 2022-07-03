@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋 Ben "SERCAN LÜLLECİ"</h1>
 <h3 align="center">Ben front end developer olarak kendini geliştirmeye çabalayan bir matematikçiyim.</h3>
 
-<img src='./sss.png' alt=''></img>
+<img src='./sss.png' alt='logo' width="300" height="150"></img>
 
 <p align="left">
   Karabük Üniversitesi Matematik Bölümü mezunuyum.Ve bir matematikçi olarak "Front end developer" alanında kariyer yapabilmek için çabalamaktayım.Bu çabalarım online eğitimler yardımıyla  python-sql-c-html , css , javascript , React.js , bootstrap öğrenerek devam etmektedir.
