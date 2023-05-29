@@ -15,7 +15,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srcnllc&show_icons=true&locale=en" alt="srcnllc" width="50%" /></p><br />
 <br />
 <!--suppress HtmlDeprecatedAttribute -->
-# 💻 My favorite tools and technologies
+<h3 align="left">💻 My favorite tools and technologies</h3>
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -23,7 +24,6 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
-
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -44,7 +44,6 @@
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-  <br/>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
