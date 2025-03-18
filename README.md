@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋 Ben "SERCAN LÜLLECİ"</h1>
-<h3 align="center">Ben front end developer olarak kendini geliştirmeye çabalayan bir matematikçiyim.</h3>
+<h3 align="center">Ben front end developer alanındda geliştirmeler yapan ve bu alanda kariyerine devam eeden bir matematikçiyim.</h3>
 
 <h1 align="center"><img  src='./sss.png' alt='logo' width="300" height="150" ></img></h1>
 
